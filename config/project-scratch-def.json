@@ -1,0 +1,13 @@
+{
+  "orgName": "https://yati3-dev-ed.develop.lightning.force.com/lightning/page/home",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
